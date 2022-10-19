@@ -1,0 +1,12 @@
+bronze:
+	ir sensor (two loops clockwise, parks, unparks)
+	ultrasonic sensor - test (interval, why millis)
+	under supervisory control (what all under it?)
+	identify state of gantry
+	prints state of track
+
+silver:
+	two codes
+		one stop at 3rd gantry_pin, cw
+		then give command at other buggy to run aw one loop
+gold.
